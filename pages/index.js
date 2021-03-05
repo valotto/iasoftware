@@ -3,7 +3,7 @@ import React from 'react';
 
 const Home = () => (
 
-<div>Index</div>
+<div>Index2</div>
 
 );
 
